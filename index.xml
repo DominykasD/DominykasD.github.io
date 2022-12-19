@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab4</title>
+    
+    
+    
+    <link>http://DominykasD.github.io/</link>
+    <description>Recent content on Lab4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2022 14:56:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://DominykasD.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postas1</title>
+      <link>http://DominykasD.github.io/posts/post1/</link>
+      <pubDate>Sat, 17 Dec 2022 14:56:46 +0200</pubDate>
+      
+      <guid>http://DominykasD.github.io/posts/post1/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tellus neque, pretium sed dui et, egestas efficitur erat. In quis fermentum lectus Mauris ac ipsum ac nisl semper semper. Etiam tortor quam, lobortis eu posuere at, tristique eget est. Nulla ultrices dapibus turpis ut convallis. Mauris blandit viverra lacus at auctor. Integer blandit sit amet massa ac consequat. Suspendisse sodales efficitur nibh, ut vestibulum augue eleifend quis.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
